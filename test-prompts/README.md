@@ -1,4 +1,4 @@
-# Test-Prompts: AI-Assisted QA with Prompt Engineering
+# AI-Assisted QA with Prompt Engineering
 
 ## 🧠 What Is Prompt Engineering?
 
