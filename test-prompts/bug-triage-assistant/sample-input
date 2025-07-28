@@ -1,0 +1,3 @@
+# Sample Bug Report (Raw Text)
+
+User reported that after logging in on Safari iOS, the dashboard appears blank. Works fine in Chrome. They also noted that the issue started after last Thursday's release. QA was able to replicate it on iOS 16.1 but not 16.4. Screenshot included in ticket #12345.
