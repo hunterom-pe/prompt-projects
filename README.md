@@ -4,9 +4,9 @@
 
 This is my collection of real-world prompt engineering projects designed to show how AI can improve productivity, clarity, and efficiency across teams, whether you're in QA, marketing, finance, support, or beyond.
 
-My name is **Hunter Ortega-Mathews**, and after 12 years working in tech as a Senior Lead QA, I’ve shifted my focus to **prompt engineering**—the art of crafting effective instructions for large language models (LLMs) like ChatGPT.
+My name is **Hunter Ortega-Mathews**, and after 12 years working in tech as a Senior Lead QA, I’ve shifted my focus to **prompt engineering**, the art of crafting effective instructions for large language models (LLMs) like ChatGPT.
 
-This repo is both my portfolio and proof of prompt AI. It demonstrates how thoughtful, detailed prompt designs can solve problems, automate workflows, reduce worktime, and support teams in meaningful ways.
+This repo is both my portfolio and proof of prompt AI's ability. It demonstrates how thoughtful, detailed prompt designs can solve problems, automate workflows, reduce worktime, and support teams in meaningful ways.
 
 ---
 
