@@ -1,0 +1,7 @@
+[theme]
+base = "dark"                    # Makes the app dark-themed by default
+primaryColor = "#d4af37"         # Gold color for buttons, highlights
+backgroundColor = "#1a1a1a"      # Dark background color for the app
+secondaryBackgroundColor = "#111111"  # Even darker color for sidebars or other panels
+textColor = "#e0d8b0"            # Soft beige/gold color for text
+font = "serif"                   # Use a serif font for that classic noir vibe
